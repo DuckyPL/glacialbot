@@ -1,0 +1,6 @@
+Here is the message log for ticket ID 2
+----------
+
+<@477072422428737556> | <@&810123961283117086> | GlacialBot
+  | GlacialBot
+ $close | Kowski

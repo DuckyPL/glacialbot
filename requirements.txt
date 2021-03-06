@@ -1,0 +1,7 @@
+discord
+asyncio
+aiohttp
+requests
+functools
+youtube_dl
+async_timeout

@@ -1,0 +1,10 @@
+Here is the message log for ticket ID 1
+----------
+
+<@477072422428737556> | <@&810123961283117086> | GlacialBot
+  | GlacialBot
+ ah yes | Ducky
+ test | Kowski
+ i wanted | Kowski
+ to test | Kowski
+ $close | Kowski
